@@ -13,17 +13,6 @@
 <ul>
   <li>Building scalable and cloud-native applications</li>
   <li>Currently exploring: System Design & practicing DSA daily</li>
-  <li>My favorite tech stack:<br>
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55"/>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55"/>
-  </li>
 </ul>
 
 
@@ -63,12 +52,23 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp,java,kotlin,js,ts,react,tailwind,vite,figma,spring,hibernate" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,js,ts" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,vite,figma" height="50" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,mysql,postgresql,mongodb,redis,docker,k8s,jenkins,aws,kafka,git,github,maven" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,jenkins,kafka,maven" height="50" />
 </p>
-
 
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" style="width: 100%;" />
