@@ -22,8 +22,9 @@
   Let's connect!
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" style="margin-left: 10px;" />
 </h3>
-
-<p align="left">
+  <a href="https://www.youtube.com/@nomorenpe" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="30" />
+  </a>
   <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank" title="LinkedIn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 15px;" />
   </a>
