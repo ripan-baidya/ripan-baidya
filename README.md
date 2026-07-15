@@ -32,7 +32,7 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/futurenoogler/" target="_blank">
+  <a href="https://www.instagram.com/nooglerx/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
   </a>
 </p>
