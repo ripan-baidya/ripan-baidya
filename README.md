@@ -48,6 +48,7 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
   <img src="https://skillicons.dev/icons?i=js,ts" height="50" />
   <img src="https://skillicons.dev/icons?i=spring,hibernate" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" height="55"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png" height="55"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq,maven" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=tailwind,vite" height="50" />
