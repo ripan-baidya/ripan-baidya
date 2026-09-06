@@ -1,6 +1,6 @@
 ## Hello, I'm Ripan 👋
 
-Hello, I'm a Full-Stack Java Developer at a startup with 1.5+ years of experience building backend and cloud-native applications using Java, Spring Boot, and Microservices, with a focus on scalable APIs, distributed systems, application performance, and production engineering.
+I'm a Full-Stack Java Developer having experience building backend and cloud-native applications with Java, Spring Boot, and microservices. I focus on scalable APIs, distributed systems, application performance, and production engineering.
 
 ### Connect with me
 
@@ -9,7 +9,7 @@ Hello, I'm a Full-Stack Java Developer at a startup with 1.5+ years of experienc
 </a>
 <a href="https://www.instagram.com/nooglerx/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
-  </a>
+</a>
 
 ### Technologies & Tools
 
@@ -18,21 +18,7 @@ Hello, I'm a Full-Stack Java Developer at a startup with 1.5+ years of experienc
 </div>
 
 <p align="justify">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js,ts" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" height="55"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq,maven" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind,vite" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="55"/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="55"/>
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="55"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="55"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" />
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="50" />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,idea,figma" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,ts,spring,hibernate,graphql,rabbitmq,maven,react,tailwind,vite,mysql,postgresql,mongodb,redis,docker,kubernetes,gcp,prometheus,grafana,git,github,githubactions,linux,vscode,idea,figma" alt="Technologies and tools" height="36" style="max-width: 100%; height: auto;" />
 </p>
 
 <div style="width: 100%;">
